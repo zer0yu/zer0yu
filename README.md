@@ -6,3 +6,29 @@
 
 [![Twitter: z3r0yu](https://img.shields.io/twitter/follow/zeroyu_?style=flat-square)](https://twitter.com/zeroyu_)
 [![GitHub z3r0yu](https://img.shields.io/github/followers/zer0yu?label=follow%20github&style=flat-square)](https://github.com/zer0yu)
+
+<br>
+
+### More about me...
+
+```go
+package main
+
+type Me struct{
+  Pronouns string
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+}
+
+func main() {
+  me := &Me{
+    Job: "Security engineer and RedTeam",
+    Prononus: "He/Him",
+    Code: "PHP and Go and Python and Everythings",
+    BestAndFavoriteSkill: "Web Hacking :D"
+  }
+  _ = me
+}
+```
+---
