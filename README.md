@@ -1,6 +1,6 @@
 <h2> Hi, I'm z3r0yu!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=zer0yu&show_icons=true&theme=radical" width="380">
-<p><em>Security Engineer and Bugbounty Hunter <br>
+<p><em>Security Researcher and Bugbounty Hunter <br>
   CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -23,7 +23,7 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "Security engineer and RedTeam",
+    Job: "Security Researcher and RedTeam",
     Prononus: "He/Him",
     Code: "PHP and Go and Python and Everythings",
     BestAndFavoriteSkill: "Web Hacking :D"
