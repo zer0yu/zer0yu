@@ -4,7 +4,6 @@
   CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: z3r0yu](https://img.shields.io/twitter/follow/zeroyu_?style=flat-square)](https://twitter.com/zeroyu_)
 [![GitHub z3r0yu](https://img.shields.io/github/followers/zer0yu?label=follow%20github&style=flat-square)](https://github.com/zer0yu)
 
 <br>
