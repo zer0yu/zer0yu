@@ -26,7 +26,7 @@ func main() {
     Job: "Security Researcher and RedTeam",
     Prononus: "He/Him",
     SweetHeart: "01",
-    Code: "PHP and Go and Python and Everythings",
+    Code: "PHP and Go and Python and Java and Everythings",
     BestAndFavoriteSkill: "Web Hacking :D"
   }
   _ = me
