@@ -14,7 +14,6 @@
 package main
 
 type Me struct{
-  Pronouns string
   Code string
   Job string
   BestAndFavoriteSkill string
@@ -24,9 +23,8 @@ type Me struct{
 func main() {
   me := &Me{
     Job: "Security Researcher and RedTeam",
-    Prononus: "He/Him",
     SweetHeart: "01",
-    Code: "PHP and Go and Python and Java and Everythings",
+    Code: "PHP and Go and Python and Java and Rust",
     BestAndFavoriteSkill: "Web Hacking :D"
   }
   _ = me
