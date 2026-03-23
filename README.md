@@ -10,24 +10,24 @@
 
 ### More about me...
 
-```go
-package main
-
-type Me struct{
-  Code string
-  Job string
-  BestAndFavoriteSkill string
-  SweetHeart string
+```rust
+#[derive(Debug)]
+struct Me {
+    code: &'static str,
+    job: &'static str,
+    best_and_favorite_skill: &'static str,
+    sweet_heart: &'static str,
 }
 
-func main() {
-  me := &Me{
-    Job: "Security Researcher and RedTeam",
-    SweetHeart: "01",
-    Code: "PHP and Go and Python and Java and Rust",
-    BestAndFavoriteSkill: "Web Hacking :D"
-  }
-  _ = me
+fn main() {
+    let me = &Me {
+        job: "Researcher in Cybersecurity and AI Agents",
+        sweet_heart: "01",
+        code: "PHP and Go and Python and TypeScript and Rust (Currently vibe coding everything. XD)",
+        best_and_favorite_skill: "Web Hacking :D",
+    };
+
+    let _ = me;
 }
 ```
 ---
